@@ -7,8 +7,8 @@ function HomePage() {
       <Container>
         <div className="space-y-6">
           <h1 className="text-2xl font-bold">
-            Hey, I'm a Senior Software Engineer at Company. I enjoy working with
-            Next.js and crafting beautiful front-end experiences.
+              hello！欢迎来到我的博客!
+              此博客系统可以通过outh0来登录，提交评论。
           </h1>
           <p>
             This portfolio is built with Next.js and a library called next-mdx.
